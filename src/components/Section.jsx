@@ -8,5 +8,6 @@ export const Section = ({title}) => {
 }
 
 Section.propTypes = {
-    title: PropTypes.string.isRequired
+    title: PropTypes.string.isRequired,
+    childComponent: PropTypes.func
 }
