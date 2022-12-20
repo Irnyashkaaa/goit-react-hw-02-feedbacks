@@ -2,8 +2,6 @@ import React from 'react'
 import { Buttons } from './Buttons/Buttons'
 import { Statistics } from './Statistics/Statistics'
 
-
-
 export class App extends React.Component {
   state = {
     good: 0,
