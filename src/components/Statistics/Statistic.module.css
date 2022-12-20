@@ -1,0 +1,13 @@
+.item {
+    display: flex;
+    margin: 10px;
+}
+.title {
+    font-size: 24px;
+    font-weight: 800;
+}
+.count {
+    font-size: 24px;
+    font-weight: 600;
+    margin-left: 10px;
+}
